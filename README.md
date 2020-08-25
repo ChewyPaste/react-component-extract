@@ -1,2 +1,1 @@
-# Laptop Customizer Exercise
-rev1
+# Laptop Customizer rev2
